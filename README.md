@@ -30,7 +30,7 @@
 
 # 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/Pranesh-2005/github-readme-stats-fast -->
-[![Marcus' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mtlaguerre&theme=transparent&rank_icon=github&hide=stars,prs,issues,contribs&hide_border=false)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Marcus' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mtlaguerre&theme=dark&rank_icon=github&hide=stars,prs,issues,contribs&border_radius=8&hide_border=false)](https://github.com/pranesh-2005/github-readme-stats-fast)
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=mtlaguerre&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mtlaguerre&theme=dark&hide_border=true)<br/>
